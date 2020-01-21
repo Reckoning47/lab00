@@ -89,6 +89,7 @@ std::ostream& operator << (std::ostream& stream, const Vector3& v) {
 //void add(int a, int b){
 //    cout << "the sum of these two numbers is " << (a + b) << "\n";
 //}
+
 int main(int argc, char** argv) {
 //    cout << "hello world " << argv[0] << " " << 1234 << " " << std::endl;
     cout << "Please input your name:\n";
