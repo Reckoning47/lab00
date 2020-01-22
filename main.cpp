@@ -6,7 +6,7 @@
 #include <iostream>
 #include <string>
 
-
+//oh shit man it's working!
 //namespace
 using namespace std;
 
